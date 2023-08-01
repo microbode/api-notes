@@ -1,5 +1,5 @@
-# first-api
-First node api
+# Description
+Parte de back do curso full stack de notes app
 
 # Environment variables
 PORT: server port
